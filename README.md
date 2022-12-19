@@ -43,3 +43,6 @@ Y comprobamos que tenemos acceso al curso
 ![Image text](https://github.com/DavidMuletMelia/SQLAlchemy/blob/main/SQLAlchemy/17.PNG)
 
 ![Image text](https://github.com/DavidMuletMelia/SQLAlchemy/blob/main/SQLAlchemy/18.PNG)
+
+
+Desgraciadamente, todo el resto de la practica debera ser llevada a cabo con un sistema operativo Linux, dado a la incompatibilidad con Windows, por lo cual debo posponer mi entrega hasta que consiga un entorno Linux. Mis disculpas.
