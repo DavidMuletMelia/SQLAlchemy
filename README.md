@@ -2,7 +2,7 @@
 
 SQLAlchemy Basics
 
-Imagen 1
+![https://github.com/DavidMuletMelia/SQLAlchemy/blob/main/SQLAlchemy/1.PNG]
 
 El primer paso para iniciar el curso de SQLAlchemy Basics es registrarnos en la página (https://courses.prettyprinted.com/courses/enrolled/1016334)
 
